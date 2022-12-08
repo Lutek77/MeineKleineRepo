@@ -1,4 +1,4 @@
-ackage pl.coderslab.collections;
+package pl.coderslab.collections;
 
 import java.util.ArrayList;
 import java.util.List;
